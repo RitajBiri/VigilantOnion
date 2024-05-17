@@ -71,7 +71,7 @@ And finally I don't use django anymore, now to view your results you need a sysl
 
 Its use is simpler, you just need to have installed the [tor](https://itsfoss.com/install-tar-browser-linux/#:~:text=Install%20Tor%20browser%20launcher%20in,instructions%20on%20its%20download%20page.&text=All%20you%20have%20to%20do,folder%20and%20run%20the%20launcher.), and the python libraries, to do this run the command below:
 
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
 
 After the tor client and the installed libraries use the `--help` command to get details of its use.
 
